@@ -173,7 +173,7 @@ address = malloc(2 * sizeof(uint64_t));
 int main(int argc, char *argv[])
 {
     //Write output to text file
-    FILE* out = freopen("g4_output.txt","w",stdout);
+    FILE* out = freopen("output.txt","w",stdout);
     DIR *dir;
  
     struct dirent *entry;
