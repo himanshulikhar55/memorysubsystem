@@ -1,13 +1,11 @@
-# Assignment as apart of the course Data Structure Technologies and Networks
-
-## Group Members:
+## Team Members:
 1) Himanshu Likhar (https://github.com/himanshulikhar55/)
 2) [Fenil Suchak] (https://github.com/Fenil3510)
 3) [Nidhi Zare] (https://github.com/nzare)
 4) [Abhinav Pathak] (https://github.com/AbhinavPat)
 
 
-## Question #7:
+## Specifications of the simulation:
 The memory subsystem (with TLBs, L1 Cache, L2 Cache and Main Memory) has following configuration:
 
 1) TLBs: L1 TLB with 12 entries and L2 TLB with 24 entries. Invalidation / Flush takes place at each preemption point.
