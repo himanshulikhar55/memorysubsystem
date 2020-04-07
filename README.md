@@ -1,8 +1,8 @@
 ## Team Members:
-1) Himanshu Likhar (https://github.com/himanshulikhar55/)
-2) [Fenil Suchak] (https://github.com/Fenil3510)
-3) [Nidhi Zare] (https://github.com/nzare)
-4) [Abhinav Pathak] (https://github.com/AbhinavPat)
+1) [Himanshu Likhar](https://github.com/himanshulikhar55/)
+2) [Fenil Suchak](https://github.com/Fenil3510)
+3) [Nidhi Zare](https://github.com/nzare)
+4) [Abhinav Pathak](https://github.com/AbhinavPat)
 
 
 ## Specifications of the simulation:
