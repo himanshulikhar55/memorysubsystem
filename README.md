@@ -49,7 +49,7 @@ In this project, we have implemented Multilevel Cache with Multilevel TLB and Se
 14) main.c : This is the driver file of the simulation. It reads addresses from input text files of the current directory and does a context switch after every 200 reads. The files that it reads contain the addresses on which the simulation will run. This function will continue reading until all the input files are read.
 
 ## Compilation and execution of code:
-To compile and execute the code, just write “make run” (without the inverted commas). The output log is stored in a file named “g4_output.txt”
+To compile and execute the code, just write “make run” (without the inverted commas). The output log is stored in a file named “output.txt”
 ### Note:
 Please do not change the directory of the input files. Their destination has been hard-coded to be "./Input_files/". If you want to run the code with your input files, please paste them in the folder with the aforementioned name. 
 
